@@ -14,7 +14,7 @@
 #
 
 
-<img align="right" alt="" width="300px" height="300px" src="analiseGif2.gif">
+<img align="right" alt="" width="200px" height="200px" src="analiseGif2.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -27,6 +27,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="html5 logo"  />
+  <img src="dash.png" height="40" alt="html5 logo"  />
   <img src="imagemPandas.png" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="html5 logo"  />
@@ -37,3 +38,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="html5 logo"  />
   <img src="Flask-Dark.svg" height="40" alt="html5 logo"  />
 </div>
+
+#
+
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Riansito&show_icons=true&theme=dark" />
+  
+  <a href="https://github.com/immark007/github-readme-stats">
+   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riansito&layout=compact&theme=dark" />
+  </a>
+</div>
+
+
+#
