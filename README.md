@@ -46,10 +46,7 @@
   <br>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Riansito&show_icons=true&theme=dark" />
   
-  <a href="https://github.com/immark007/github-readme-stats">
+  <a href="https://github.com/Riansito">
    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riansito&layout=compact&theme=dark" />
   </a>
 </div>
-
-
-#
