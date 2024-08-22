@@ -13,7 +13,7 @@
 #
 
 
-<img align="right" alt="" height="190px" src="analiseGif.gif">
+<img align="right" alt="" width="300px" height="300px" src="analiseGif2.gif">
 
 <h3 align="left">Connect with me!</h3>
 
