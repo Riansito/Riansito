@@ -10,11 +10,13 @@
 #
 
 <p align="center">
-Olá! Sou Rian Freires da Costa Silva, um estudante de Sistemas de Informação apaixonado por tecnologia e inovação. Minha especialidade é Análise de Dados, onde aplico uma variedade de ferramentas e tecnologias. Tenho experiência sólida em Python e suas bibliotecas, como Pandas e GeoPandas, além de habilidades em visualização de dados com Seaborn, Matplotlib e Plotly.
+Sou um estudante de Sistemas de Informação apaixonado por tecnologia e inovação. Minha especialidade é Análise de Dados, onde aplico uma variedade de ferramentas e tecnologias. Tenho experiência sólida em Python e suas bibliotecas, como Pandas e GeoPandas, além de habilidades em visualização de dados com Seaborn, Matplotlib e Plotly.
 
-  Atualmente, utilizo Flask para desenvolver aplicações web e criar dashboards interativos, integrando esses projetos com conhecimentos básicos de front-end em Bootstrap. Também sou familiarizado com scraping usando Beautiful Soup e automação de tarefas com Selenium, permitindo-me coletar dados automaticamente de sites e realizar análises detalhadas. Tenho um bom domínio de bancos de dados, especialmente MySQL, onde manipulo dados com eficiência e realizo buscas avançadas.
+Atualmente, utilizo Flask para desenvolver aplicações web e criar dashboards interativos, integrando esses projetos com conhecimentos básicos de front-end em Bootstrap. Também sou familiarizado com scraping usando Beautiful Soup e automação de tarefas com Selenium, permitindo-me coletar dados automaticamente de sites e realizar análises detalhadas. Tenho um bom domínio de bancos de dados, especialmente MySQL, onde manipulo dados com eficiência e realizo buscas avançadas.
 
-Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área!!</p>
+No Excel, tenho nível avançado, com habilidades para trabalhar com grandes volumes de dados, realizar análises complexas, criar relatórios dinâmicos e dashboards interativos, além de aplicar técnicas de busca e agregação de informações de maneira eficiente.
+
+Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área!</p>
 
 #
 
