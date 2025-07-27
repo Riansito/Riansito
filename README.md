@@ -55,7 +55,7 @@ Transformando dados em soluções científicas e insights estratégicos. Experi�
 * **Excel:** [Meu portfólio de Excel](https://sites.google.com/view/portiflioexcelrian/in%C3%ADcio)
 * **Power BI:** [Meu portfólio de Power BI](https://sites.google.com/view/portifliorianpowerbi/in%C3%ADcio)
 * **SQL:** [Repositório SQL](https://github.com/Riansito/Mysql_Repository)
-* **Python:** [Repositório Python](https://github.com/Riansito/Portifolio-Data-Science)
+* **Python:** [Repositório Python(Ciêntista de Dados)](https://github.com/Riansito/Portifolio-Data-Science)
 
 ---
 
