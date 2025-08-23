@@ -2,7 +2,7 @@
 
 **Cientista de Dados | Explorador de Soluções Inovadoras**
 
-Transformando dados em soluções científicas e insights estratégicos. Experiência sólida em análise, modelagem e visualização de dados, com foco em machine learning e estatística avançada.
+Transformando dados em soluções científicas e insights estratégicos. Experiência em análise, modelagem e visualização de dados, com foco em machine learning e estatística.
 
 ---
 
@@ -32,7 +32,7 @@ Transformando dados em soluções científicas e insights estratégicos. Experi�
 
 * Desenvolvimento e aplicação de modelos de machine learning para regressão, classificação e clustering (Scikit-learn).
 * Manipulação, modelagem e visualização de dados com Pandas, NumPy, Matplotlib, Seaborn e Plotly.
-* Análise estatística avançada e interpretação de resultados.
+* Análise estatística e interpretação de resultados.
 * Web scraping e automação com Beautiful Soup e Selenium.
 * Experiência em SQL: criação e manipulação de bancos de dados, consultas otimizadas, criação de funções e procedimentos armazenados.
 
