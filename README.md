@@ -1,6 +1,6 @@
 # Rian Freires da Costa Silva
 
-**Cientista de Dados | Explorador de Soluções Inovadoras**
+**Cientista de Dados/Analista de Dados | Explorador de Soluções Inovadoras**
 
 Transformando dados em soluções científicas e insights estratégicos. Experiência em análise, modelagem e visualização de dados, com foco em machine learning e estatística.
 
