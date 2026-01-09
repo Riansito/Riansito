@@ -90,7 +90,7 @@ Transformo dados em **insights acionáveis** para apoiar a tomada de decisão. E
 ## 📬 Contato
 
 * **E-mail: [E-mail](rianfreires40@gmail.com)**
-* **LinkedIn:[Rian Freires | Linkedin](www.linkedin.com/in/rian-freires-798813324)**
+* **LinkedIn:[Rian Freires | Linkedin](https://www.linkedin.com/in/rian-freires-798813324)**
 
 ---
 
