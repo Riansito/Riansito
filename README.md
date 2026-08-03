@@ -58,16 +58,6 @@ Tenho experiência prática desenvolvendo pipelines de dados ponta a ponta, arqu
 
 ## ⭐ Projetos em Destaque
 
-| Projeto | Tecnologias |
-|----------|-------------|
-| 📰 **Pipeline de Notícias com IA** | Python • Airflow • dbt • Docker • PostgreSQL |
-| 🏥 **Pipeline DataSUS** | Python • Docker • Airflow • Data Lake • Power BI |
-| 📈 **Pipeline Mercado Financeiro** | Python • SQL • Power BI |
-
----
-
-## ⭐ Projetos em Destaque
-
 | Projeto | Descrição | Tecnologias |
 |----------|-----------|-------------|
 | 📰 **[Notícias DBT](https://github.com/Riansito/noticias_dbt)** | Pipeline moderno com Airflow, dbt, Docker e Data Warehouse para consumo por IA. | Airflow • dbt • Docker • PostgreSQL |
