@@ -77,9 +77,6 @@ Tenho experiência prática desenvolvendo pipelines de dados ponta a ponta, arqu
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Riansito&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riansito&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Riansito&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Riansito&layout=compact&theme=tokyonight"/>
 </p>
